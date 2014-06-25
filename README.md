@@ -9,7 +9,7 @@ The modules/zip files are in the repository. Add it to your project like you wou
 Require the module with the following code:
 
 ~~~
-var LogCatcher = require("yy.logcatcher");
+var Logger = require("yy.logcatcher");
 ~~~
 
 
