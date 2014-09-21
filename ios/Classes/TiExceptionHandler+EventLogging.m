@@ -15,7 +15,6 @@
 
 - (void)reportScriptError:(TiScriptError *)scriptError
 {
-    NSDictionary *ret = [NSDictionary alloc];
     NSLog(@"[ERROR] Script Error: %@",[scriptError detailedDescription]);
     [[YyLogcatcherModule logger] fireEvent:@"error" withObject: [scriptError dictionaryValue]];
 }
