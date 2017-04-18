@@ -56,4 +56,4 @@ Currently this is only for Android (a.k.a. logcat)
 * Listen for all logs types (not just Titanium Exceptions)
 
 
-###Licence: MIT
+### Licence: MIT
