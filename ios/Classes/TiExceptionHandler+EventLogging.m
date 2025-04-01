@@ -7,7 +7,6 @@
 //
 
 #import "TiExceptionHandler+EventLogging.h"
-#import "TiApp.h"
 #import "TiAppiOSProxy.h"
 #import "YyLogcatcherModule.h"
 
